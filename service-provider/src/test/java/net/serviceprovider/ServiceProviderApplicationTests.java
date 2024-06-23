@@ -1,4 +1,4 @@
-package net.consul.serviceprovider;
+package net.serviceprovider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
